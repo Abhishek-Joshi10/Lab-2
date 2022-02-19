@@ -15,5 +15,5 @@ These steps are performed in these code
   5. Machine Learning Models  ( Different Files)
     a. Logistic Regression 
     b. KNN
- 
+ The dataset is available as "dataset.csv"
  Note: Code in both files is same except in the end model is different.
